@@ -1,1 +1,2 @@
-console.log("shiva");
+"use strict"; //treat all js code as newer version of code
+
